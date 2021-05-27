@@ -1,4 +1,5 @@
 # StarRateView
+StarRateView is a star rating library created in SwiftUI.
 <p align="center">
     <img src="https://img.shields.io/badge/platform-iOS-blue.svg?style=flat" alt="Platforms" />
     <img src="https://img.shields.io/badge/Swift-5-orange.svg" />
