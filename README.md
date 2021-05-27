@@ -27,4 +27,4 @@ struct ContentView: View {
 ## Installation
 
 `StarRateView` is available via [Swift Package Manager](https://swift.org/package-manager).
-go to `File -> Swift Packages -> Add Package Dependency` and enter [StarRate](https://github.com/giiiita/StarRateView)
+go to `File -> Swift Packages -> Add Package Dependency` and enter https://github.com/giiiita/StarRateView
